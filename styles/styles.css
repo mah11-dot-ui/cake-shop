@@ -107,12 +107,30 @@ nav ul {
     display: flex;
 }
 
-.keep-website-option{
-    display: grid;
-    grid-template-columns: auto;
-    gap: 6px;
+.keep-website-options{
+    margin-left:450px ;
 }
 
 .keep-website-title{
     font-size: 25px;
+}
+
+/* Delivery styles */
+
+.delivery-text{
+    text-align: center;
+}
+
+/* footer styles */
+.footer{
+    background-color: rgb(255, 243, 228);
+}
+
+.footer-p{
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 410px;
+    padding-right: 410px;
+    padding-top: 39px;
+    padding-bottom: 38px;
 }
