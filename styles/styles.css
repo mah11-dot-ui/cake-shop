@@ -90,3 +90,22 @@ nav ul {
 .keep-website-text{
     text-align: center;
 }
+
+.keep-website-options{
+    display: flex;
+    gap: 14px;
+}
+
+.keep-website-card{
+    display: flex;
+}
+
+.keep-website-option{
+    display: grid;
+    grid-template-columns: auto;
+    gap: 6px;
+}
+
+.keep-website-title{
+    font-size: 25px;
+}
